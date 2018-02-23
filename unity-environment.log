@@ -1,0 +1,10 @@
+2/23/2018 3:17:40 PM
+ 
+Exception
+SocketException: No connection could be made because the target machine actively refused it.
+
+System.Net.Sockets.Socket.Connect (System.Net.IPAddress[] addresses, System.Int32 port) (at <2d96311935af40c7b35c6ff5c955d7e7>:0)
+System.Net.Sockets.Socket.Connect (System.String host, System.Int32 port) (at <2d96311935af40c7b35c6ff5c955d7e7>:0)
+ExternalCommunicator.InitializeCommunicator () (at <f68233cee3c043c9b3ec8e70c786ff88>:0)
+Academy.Awake () (at <f68233cee3c043c9b3ec8e70c786ff88>:0)
+
