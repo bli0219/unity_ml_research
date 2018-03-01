@@ -16,6 +16,8 @@ class Trainer(object):
         self.initial_epsilon =  initial_epsilon
         self.final_epsilon = final_epsilon
         self.gamma = gamma
+        self.count = 0
+        self.step = 0
 
     def take_action(self, index, info, env):
 
@@ -25,7 +27,7 @@ class Trainer(object):
 
         action = np.argmax(Q_value)
         # if random.random() <= self.epsilon:
-        #     action = random.randint(0, 2)
+        #     action = random.randint(0, self.model.a_size-1)
 
         self.epsilon -= (self.initial_epsilon - self.final_epsilon)/10000
         new_info = env.step([[action]])["MyBrain1"]
@@ -33,6 +35,10 @@ class Trainer(object):
         new_state = new_info.states[index]
         reward = new_info.rewards[index]
         done = new_info.local_done[index]
+
+        self.step += 1
+        if (done):
+            print(self.step)
         self.add_experience(state, action, reward, new_state, done)
 
         return new_info
@@ -54,8 +60,6 @@ class Trainer(object):
         reward_batch = [data[2] for data in minibatch]
         next_state_batch = [data[3] for data in minibatch]
         done_batch = [data[4] for data in minibatch]
-
-        print(reward_batch)
         # target_Q = rewrad + gamma * next_Q
         target_Q = []
         next_Q_value_batch = self.sess.run(
@@ -66,9 +70,20 @@ class Trainer(object):
                 target_Q.append(reward_batch[i])
             else:
                 target_Q.append(reward_batch[i] + self.gamma * np.max(next_Q_value_batch[i]))
-        print(target_Q[0])
+
+        if (done_batch[0]):
+            print("action: {}".format(action_batch))
+            print("action Q: {}".format(next_Q_value_batch))
+            print("reward: {}".format(reward_batch))
+            print("target_Q: {}".format(target_Q))
+            self.count +=1
+
+
         self.model.optimizer.run(feed_dict = {
             self.model.target_Q : target_Q,
             self.model.action_input : action_batch,
             self.model.state_input : state_batch
         })
+
+        if (done_batch[0]):
+            print("resulting action Q: {}".format(next_Q_value_batch))

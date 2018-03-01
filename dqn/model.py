@@ -14,21 +14,22 @@ class DQN():
     def create_Q_network(self):
         W1 = self.weight_variable([self.s_size, 30])
         b1 = self.bias_variable([30])
-        W2 = self.weight_variable([30, 15])
-        b2 = self.bias_variable([15])
-        W3 = self.weight_variable([15, self.a_size])
+        W2 = self.weight_variable([30, 30])
+        b2 = self.bias_variable([30])
+        W3 = self.weight_variable([30, self.a_size])
         b3 = self.bias_variable([self.a_size])
 
         # input layer; using minibatch
         self.state_input = tf.placeholder(
             dtype=tf.float32, shape=[None, self.s_size])
         # hidden layers
-        h_layer1 = tf.nn.relu(tf.matmul(self.state_input, W1) + b1)
-        h_layer2 = tf.nn.relu(tf.matmul(h_layer1, W2) + b2)
+        h_layer = tf.nn.relu(tf.matmul(self.state_input, W1) + b1)
+        h_layer2 = tf.nn.relu(tf.matmul(h_layer, W2) + b2)
+
         self.Q_value = tf.matmul(h_layer2, W3) + b3
 
     def weight_variable(self, shape):
-        initial = tf.truncated_normal(shape)
+        initial = tf.truncated_normal(shape, stddev=0.01)
         return tf.Variable(initial)
 
     def bias_variable(self, shape):
@@ -38,8 +39,8 @@ class DQN():
     def create_training_method(self):
         self.action_input = tf.placeholder("float",[None,self.a_size]) # one hot presentation
         self.target_Q = tf.placeholder("float",[None])
-        self.Q_action = tf.reduce_sum(tf.multiply(self.Q_value,self.action_input),reduction_indices = 1)
-        self.cost = tf.reduce_mean(tf.square(self.target_Q - self.Q_action))
+        self.action_Q = tf.reduce_sum(tf.multiply(self.Q_value,self.action_input),reduction_indices = 1)
+        self.cost = tf.reduce_mean(tf.square(self.target_Q - self.action_Q))
         self.optimizer = tf.train.AdamOptimizer(0.0001).minimize(self.cost)
 
 
