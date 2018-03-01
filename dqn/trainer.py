@@ -24,8 +24,8 @@ class Trainer(object):
             feed_dict = {self.model.state_input:[state]}) [0]
 
         action = np.argmax(Q_value)
-        if random.random() <= self.epsilon:
-            action = random.randint(0, 2)
+        # if random.random() <= self.epsilon:
+        #     action = random.randint(0, 2)
 
         self.epsilon -= (self.initial_epsilon - self.final_epsilon)/10000
         new_info = env.step([[action]])["MyBrain1"]
