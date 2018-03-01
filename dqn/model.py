@@ -1,6 +1,48 @@
 import tensorflow as tf
 import numpy as np
 
+class DQN():
+
+    def __init__(self, brain):
+
+        self.s_size = brain.state_space_size
+        self.a_size = brain.action_space_size
+
+        self.create_Q_network()
+        self.create_training_method()
+
+    def create_Q_network(self):
+        W1 = self.weight_variable([self.s_size, 30])
+        b1 = self.bias_variable([30])
+        W2 = self.weight_variable([30, 15])
+        b2 = self.bias_variable([15])
+        W3 = self.weight_variable([15, self.a_size])
+        b3 = self.bias_variable([self.a_size])
+
+        # input layer; using minibatch
+        self.state_input = tf.placeholder(
+            dtype=tf.float32, shape=[None, self.s_size])
+        # hidden layers
+        h_layer1 = tf.nn.relu(tf.matmul(self.state_input, W1) + b1)
+        h_layer2 = tf.nn.relu(tf.matmul(h_layer1, W2) + b2)
+        self.Q_value = tf.matmul(h_layer2, W3) + b3
+
+    def weight_variable(self, shape):
+        initial = tf.truncated_normal(shape)
+        return tf.Variable(initial)
+
+    def bias_variable(self, shape):
+        initial = tf.constant(0.01, shape = shape)
+        return tf.Variable(initial)
+
+    def create_training_method(self):
+        self.action_input = tf.placeholder("float",[None,self.a_size]) # one hot presentation
+        self.target_Q = tf.placeholder("float",[None])
+        self.Q_action = tf.reduce_sum(tf.multiply(self.Q_value,self.action_input),reduction_indices = 1)
+        self.cost = tf.reduce_mean(tf.square(self.target_Q - self.Q_action))
+        self.optimizer = tf.train.AdamOptimizer(0.0001).minimize(self.cost)
+
+
 
 def save_model(sess, saver, model_path="./", steps=0):
     """
@@ -27,42 +69,3 @@ def export_graph(model_path, env_name="env", target_nodes="action,value_estimate
                               output_graph=model_path + '/' + env_name + '.bytes',
                               clear_devices=True, initializer_nodes="", input_saver="",
                               restore_op_name="save/restore_all", filename_tensor_name="save/Const:0")
-
-
-class DQN():
-
-    def __init__(self, brain):
-
-        self.s_size = brain.state_space_size
-        self.a_size = brain.action_space_size
-
-        self.create_Q_network()
-        self.create_training_method()
-
-    def create_Q_network(self):
-        W1 = self.weight_variable([self.s_size, 20])
-        b1 = self.bias_variable([20])
-        W2 = self.weight_variable([20, self.a_size])
-        b2 = self.bias_variable([self.a_size])
-
-        # input layer; using minibatch
-        self.state_input = tf.placeholder(
-            dtype=tf.float32, shape=[None, self.s_size])
-        # hidden layers
-        h_layer = tf.nn.relu(tf.matmul(self.state_input, W1) + b1)
-        self.Q_value = tf.matmul(h_layer, W2) + b2
-
-    def weight_variable(self, shape):
-        initial = tf.truncated_normal(shape)
-        return tf.Variable(initial)
-
-    def bias_variable(self, shape):
-        initial = tf.constant(0.01, shape = shape)
-        return tf.Variable(initial)
-
-    def create_training_method(self):
-        self.action_input = tf.placeholder("float",[None,self.a_size]) # one hot presentation
-        self.target_Q = tf.placeholder("float",[None])
-        self.Q_action = tf.reduce_sum(tf.multiply(self.Q_value,self.action_input),reduction_indices = 1)
-        self.cost = tf.reduce_mean(tf.square(self.target_Q - self.Q_action))
-        self.optimizer = tf.train.AdamOptimizer(0.0001).minimize(self.cost)
