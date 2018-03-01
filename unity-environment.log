@@ -2550,3 +2550,403 @@ Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/
 Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
 Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
 
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
+Log
+(0.0, 0.0, 0.0)
+UnityEngine.Debug:Log(Object)
+MyAgent:AgentReset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/Resources/Scripts/MyAgent.cs:80)
+Agent:Reset() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Agent.cs:199)
+Brain:ResetIfDone() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Brain.cs:302)
+Academy:Step() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:202)
+Academy:RunMdp() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:307)
+Academy:FixedUpdate() (at C:/Users/bli/Documents/Deep Learning/unity_ml_research/unity/ml_test_unity/Assets/ML-Agents/Scripts/Academy.cs:259)
+
