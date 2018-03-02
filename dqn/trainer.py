@@ -16,8 +16,9 @@ class Trainer(object):
         self.initial_epsilon =  initial_epsilon
         self.final_epsilon = final_epsilon
         self.gamma = gamma
-        self.count = 0
+        self.avg = 0.0
         self.step = 0
+        self.count = 0
 
     def take_action(self, index, info, env):
 
@@ -38,7 +39,16 @@ class Trainer(object):
 
         self.step += 1
         if (done):
-            print(self.step)
+            self.avg = self.avg * 0.9 + self.step * 0.1
+            self.step = 0
+            self.count += 1
+            if (self.count%10==0):
+                print("running average: {}".format(self.avg))
+                self.count = 0
+
+
+
+
         self.add_experience(state, action, reward, new_state, done)
 
         return new_info
@@ -71,12 +81,12 @@ class Trainer(object):
             else:
                 target_Q.append(reward_batch[i] + self.gamma * np.max(next_Q_value_batch[i]))
 
-        if (done_batch[0]):
-            print("action: {}".format(action_batch))
-            print("action Q: {}".format(next_Q_value_batch))
-            print("reward: {}".format(reward_batch))
-            print("target_Q: {}".format(target_Q))
-            self.count +=1
+        # if (done_batch[0]):
+        #     print("action: {}".format(action_batch))
+        #     print("action Q: {}".format(next_Q_value_batch))
+        #     print("reward: {}".format(reward_batch))
+        #     print("target_Q: {}".format(target_Q))
+        #     self.count +=1
 
 
         self.model.optimizer.run(feed_dict = {
@@ -85,5 +95,5 @@ class Trainer(object):
             self.model.state_input : state_batch
         })
 
-        if (done_batch[0]):
-            print("resulting action Q: {}".format(next_Q_value_batch))
+        # if (done_batch[0]):
+        #     print("resulting action Q: {}".format(next_Q_value_batch))

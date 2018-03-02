@@ -41,7 +41,7 @@ class DQN():
         self.target_Q = tf.placeholder("float",[None])
         self.action_Q = tf.reduce_sum(tf.multiply(self.Q_value,self.action_input),reduction_indices = 1)
         self.cost = tf.reduce_mean(tf.square(self.target_Q - self.action_Q))
-        self.optimizer = tf.train.AdamOptimizer(0.0001).minimize(self.cost)
+        self.optimizer = tf.train.AdamOptimizer(0.0003).minimize(self.cost)
 
 
 
